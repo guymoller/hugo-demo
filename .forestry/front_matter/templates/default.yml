@@ -10,6 +10,15 @@ fields:
   label: Banner Image
   config:
     maxSize: '6'
-- type: list
-  name: ''
-  label: ''
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: sub_heading
+  label: sub heading
+- type: text
+  name: layout
+  label: layout
+pages:
+- content/about.md
+- content/posts/hugo-at-last.md

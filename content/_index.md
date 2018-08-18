@@ -1,21 +1,21 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/v1530725685/building.jpg"
 layout: landing
 heading: Belkirk College
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "https://res.cloudinary.com/forestrydemo1/image/upload/v1530725751/stem.png"
+- "/v1530725751/UPenn_logo.png"
+- "/v1530725751/nysed.png"
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
-  icon: "/uploads/2017/11/13/health.png"
+  icon: "/v1530725741/biotech.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+  icon: "/v1530725750/health.png"
 sub_heading: Engineering and Health Sciences
 textline: |
   Belkirk College of Engineering
@@ -25,7 +25,6 @@ hero_button:
   text: Learn more
   href: "/about"
 show_news: true
-show_staff: true
 menu:
   navigation:
     identifier: index

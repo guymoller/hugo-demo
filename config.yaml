@@ -2,7 +2,7 @@ baseURL: "/"
 languageCode: "en-us"
 
 title: Belkirk College of Engineering
-
+theme: forestry-demo
 description: Belkirk Demo Site for Forestry.io
 related:
   indices:
@@ -15,5 +15,6 @@ permalinks:
   people: /about/:title/
 taxonomies:
   tag: tags
-
-theme: forestry-demo
+params:
+  short_title: Belkirk
+  cloudinary: http://res.cloudinary.com/forestrydemo1/image/upload

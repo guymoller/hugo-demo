@@ -1,0 +1,119 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: banner_image
+  label: Banner image
+  type: textarea
+  hidden: false
+  default: ''
+- name: heading
+  label: Heading
+  type: text
+  hidden: false
+  default: ''
+- name: menu
+  label: Menu
+  type: field_group
+  fields:
+  - name: navigation
+    label: Navigation
+    type: field_group
+    fields:
+    - name: identifier
+      label: Identifier
+      type: text
+      hidden: false
+      default: ''
+    - name: weight
+      label: Weight
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  - name: footer
+    label: Footer
+    type: field_group
+    fields:
+    - name: identifier
+      label: Identifier
+      type: text
+      hidden: false
+      default: ''
+    - name: weight
+      label: Weight
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: true
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: partners
+  label: Partners
+  type: list
+  hidden: false
+  default: ''
+- name: services
+  label: Services
+  type: field_group_list
+  fields:
+  - name: description
+    label: Description
+    type: text
+    hidden: false
+    default: ''
+  - name: heading
+    label: Heading
+    type: text
+    hidden: false
+    default: ''
+  - name: icon
+    label: Icon
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: sub_heading
+  label: Sub heading
+  type: text
+  hidden: false
+  default: ''
+- name: textline
+  label: Textline
+  type: text
+  hidden: false
+  default: ''
+- name: hero_button
+  label: Hero button
+  type: field_group
+  fields:
+  - name: text
+    label: Text
+    type: text
+    hidden: false
+    default: ''
+  - name: href
+    label: Href
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: show_news
+  label: Show news
+  type: boolean
+  hidden: false
+  default: ''
