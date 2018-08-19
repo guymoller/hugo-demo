@@ -4,18 +4,26 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- path: content
+- type: directory
+  path: content
   label: Pages
   create: all
-- path: content/posts
+  match: "*"
+- type: directory
+  path: content/posts
   label: Posts
   create: all
-- path: content/projects
+  match: "**/*"
+- type: directory
+  path: content/projects
   label: Projects
   create: all
-- path: content/people
+  match: "**/*"
+- type: directory
+  path: content/people
   label: People
   create: all
+  match: "**/*"
 upload_dir: ''
 public_path: https://res.cloudinary.com/forestrydemo1
 front_matter_path: ''
