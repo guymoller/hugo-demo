@@ -11,15 +11,6 @@ fields:
   label: Banner Image
   config:
     maxSize: '6'
-- type: text
-  name: heading
-  label: heading
-- type: text
-  name: sub_heading
-  label: sub heading
-- type: text
-  name: layout
-  label: layout
-pages:
-- content/posts/hugo-at-last.md
-- content/about.md
+- type: list
+  name: ''
+  label: ''
