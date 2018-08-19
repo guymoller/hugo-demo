@@ -1,4 +1,5 @@
 +++
+ = []
 authors = "people/murphy-tiernan.md"
 banner_image = "/v1530723652/02760_redscarf_2560x1440.jpg"
 date = "2018-07-03T21:46:53+00:00"

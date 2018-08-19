@@ -14,3 +14,5 @@ fields:
 - type: list
   name: ''
   label: ''
+pages:
+- content/about.md
