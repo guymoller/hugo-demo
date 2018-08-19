@@ -14,16 +14,22 @@ sections:
   label: Posts
   create: all
   match: "**/*"
+  templates:
+  - post
 - type: directory
   path: content/projects
   label: Projects
   create: all
   match: "**/*"
+  templates:
+  - project
 - type: directory
   path: content/people
   label: People
   create: all
   match: "**/*"
+  templates:
+  - person
 upload_dir: ''
 public_path: http://res.cloudinary.com/forestrydemo1/image/upload
 front_matter_path: ''
