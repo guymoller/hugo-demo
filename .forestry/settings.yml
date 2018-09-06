@@ -21,7 +21,7 @@ sections:
   label: Projects
   create: all
   match: "**/*"
-  exclude: "**/_index.md"
+  exclude: content/projects/_index.md
   templates:
   - project
 - type: directory
