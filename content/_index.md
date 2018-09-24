@@ -4,7 +4,7 @@ banner_image: "/v1530725685/building.jpg"
 layout: landing
 heading: Belkirk College
 partners:
-- "https://res.cloudinary.com/forestrydemo1/image/upload/v1530725751/stem.png"
+- https://res.cloudinary.com/forestrydemo1/image/upload/v1530725751/stem.png
 - "/v1530725751/UPenn_logo.png"
 - "/v1530725751/nysed.png"
 services:

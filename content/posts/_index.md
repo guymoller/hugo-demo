@@ -8,4 +8,5 @@ menu:
   footer:
     identifier: posts
     weight: 3
+
 ---
