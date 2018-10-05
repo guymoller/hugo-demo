@@ -32,8 +32,12 @@ fields:
   config:
     use_select: true
     source:
-      type: pages
+      type: simple
       section: posts
+    options:
+    - One
+    - two
+    - THREE
 - name: layout
   label: Layout
   type: text
