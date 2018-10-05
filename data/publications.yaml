@@ -5,11 +5,6 @@ publication:
   projects:
   - projects/epilepsy-monitoring.md
   - projects/electric-vehicle-design.md
-- title: Page 3
-  projects:
-  - projects/modern-engineering.md
-  authors:
-  - people/murphy-tiernan.md
 - title: Page 2
   layout: publication
   date: 2017-09-30 16:27:05 +0000
@@ -17,4 +12,8 @@ publication:
   project:
   - projects/modern-engineering.md
   link: ''
----
+- title: Page 3
+  projects:
+  - projects/modern-engineering.md
+  authors:
+  - people/murphy-tiernan.md
