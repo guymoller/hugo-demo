@@ -8,14 +8,14 @@ fields:
   type: text
   hidden: false
   default: ''
-- type: text
-  label: Sub Heading
-  name: sub_heading
-  default: ''
 - name: date
   label: Publish Date
   type: datetime
   hidden: false
+  default: ''
+- type: text
+  label: Sub Heading
+  name: sub_heading
   default: ''
 - name: tags
   label: Tags
