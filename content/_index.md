@@ -29,5 +29,6 @@ menu:
   navigation:
     identifier: index
     weight: 1
+    parent: About
 
 ---
