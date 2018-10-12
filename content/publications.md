@@ -4,7 +4,7 @@ layout: publications
 menu:
   navigation:
     identifier: publications
-    weight: 2
+    weight: 4
     title: Publications
 
 ---

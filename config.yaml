@@ -18,9 +18,3 @@ taxonomies:
 params:
   short_title: Belkirk
   cloudinary: http://res.cloudinary.com/forestrydemo1/image/upload
-menu:
-  navigation:
-  - name: Google
-    url: https://google.com
-    weight: 1
-    parent: Projects
