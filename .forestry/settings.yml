@@ -32,6 +32,11 @@ sections:
   match: "**/*"
   templates:
   - person
+- type: directory
+  path: data
+  label: Data
+  create: none
+  match: "**/*.{json,yaml,yml,toml}"
 upload_dir: ''
 public_path: http://res.cloudinary.com/forestrydemo1/image/upload
 front_matter_path: ''
