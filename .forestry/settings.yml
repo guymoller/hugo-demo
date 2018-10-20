@@ -33,7 +33,7 @@ sections:
   templates:
   - person
 - type: heading
-  label: Other Options
+  label: Data Files and stuff
 - type: directory
   path: data
   label: Data
