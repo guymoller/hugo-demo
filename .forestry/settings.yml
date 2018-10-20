@@ -32,6 +32,8 @@ sections:
   match: "**/*"
   templates:
   - person
+- type: heading
+  label: Other Options
 - type: directory
   path: data
   label: Data
