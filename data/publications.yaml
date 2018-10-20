@@ -5,6 +5,8 @@ publication:
   projects:
   - projects/epilepsy-monitoring.md
   - projects/electric-vehicle-design.md
+  authors:
+  - people/charlize-babatunde.md
 - title: Study of Alpine Plants
   layout: publication
   date: 2017-09-30 16:27:05 +0000
