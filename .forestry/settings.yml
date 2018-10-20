@@ -32,6 +32,12 @@ sections:
   match: "**/*"
   templates:
   - person
+- type: heading
+  label: Other
+- type: document
+  path: data/information.yaml
+  label: Information
+  match: "**/*"
 - type: document
   path: data/publications.yaml
   label: Publications
