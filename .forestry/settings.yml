@@ -33,7 +33,7 @@ sections:
   templates:
   - person
 - type: document
-  path: "**/publications.yaml"
+  path: data/publications.yaml
   label: Data Files
   match: "**/publications.yaml"
 upload_dir: ''
