@@ -36,7 +36,7 @@ sections:
   path: data
   label: Data Files
   create: none
-  match: "**/*.{json,yaml,yml,toml}"
+  match: "**/publications.yaml"
 upload_dir: ''
 public_path: http://res.cloudinary.com/forestrydemo1/image/upload
 front_matter_path: ''
