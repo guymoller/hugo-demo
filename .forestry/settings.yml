@@ -32,11 +32,9 @@ sections:
   match: "**/*"
   templates:
   - person
-- type: heading
-  label: Data Files and stuff
 - type: directory
   path: data
-  label: Data
+  label: Data Files
   create: none
   match: "**/*.{json,yaml,yml,toml}"
 upload_dir: ''
