@@ -1,18 +1,18 @@
 ---
 publication:
 - date: 2018-07-03 04:00:00 +0000
-  title: Page 1
+  title: Ground Breaking Research Paper
   projects:
   - projects/epilepsy-monitoring.md
   - projects/electric-vehicle-design.md
-- title: Page 2
+- title: Study of Alpine Plants
   layout: publication
   date: 2017-09-30 16:27:05 +0000
   author: _people/charlize-babatunde.md
   project:
   - projects/modern-engineering.md
   link: ''
-- title: Page 3
+- title: Microbiome and Gut Health
   projects:
   - projects/modern-engineering.md
   authors:
