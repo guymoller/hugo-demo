@@ -7,6 +7,13 @@ publication:
   - projects/electric-vehicle-design.md
   authors:
   - people/charlize-babatunde.md
+- title: Microbiome and Gut Health
+  projects:
+  - projects/electric-vehicle-design.md
+  authors:
+  - people/grady-nerio.md
+  - people/murphy-tiernan.md
+  date: 2018-10-17 03:00:00 +0000
 - title: Study of Alpine Plants
   layout: publication
   date: 2017-09-30 16:27:05 +0000
@@ -16,10 +23,3 @@ publication:
   link: ''
   authors:
   - people/grady-nerio.md
-- title: Microbiome and Gut Health
-  projects:
-  - projects/electric-vehicle-design.md
-  authors:
-  - people/grady-nerio.md
-  - people/murphy-tiernan.md
-  date: 2018-10-17 03:00:00 +0000
