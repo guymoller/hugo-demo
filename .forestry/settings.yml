@@ -34,7 +34,7 @@ sections:
   - person
 - type: document
   path: data/publications.yaml
-  label: Data Files
+  label: Publications
 upload_dir: ''
 public_path: http://res.cloudinary.com/forestrydemo1/image/upload
 front_matter_path: ''
