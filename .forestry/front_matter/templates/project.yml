@@ -27,14 +27,3 @@ fields:
   type: text
   hidden: false
   default: ''
-- type: field_group
-  name: phils-group
-  label: Phil's group
-  description: This is a test
-  fields:
-  - type: text
-    name: title
-    label: Title
-  - type: boolean
-    name: is_this_true
-    label: Is this true
