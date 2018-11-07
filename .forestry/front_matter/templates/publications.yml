@@ -32,5 +32,3 @@ fields:
       source:
         type: pages
         section: people
-pages:
-- data/publications.yaml
