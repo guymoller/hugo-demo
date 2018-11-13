@@ -1,12 +1,5 @@
 ---
 publication:
-- date: 2018-07-03 04:00:00 +0000
-  title: A Comparison of Test Procedures
-  projects:
-  - projects/epilepsy-monitoring.md
-  - projects/electric-vehicle-design.md
-  authors:
-  - people/charlize-babatunde.md
 - title: Statistical Analysis of SARV 3-year study
   projects:
   - projects/modern-engineering.md
@@ -20,3 +13,10 @@ publication:
   project:
   - projects/modern-engineering.md
   link: ''
+- date: 2018-07-03 04:00:00 +0000
+  title: A Comparison of Test Procedures
+  projects:
+  - projects/epilepsy-monitoring.md
+  - projects/electric-vehicle-design.md
+  authors:
+  - people/charlize-babatunde.md
